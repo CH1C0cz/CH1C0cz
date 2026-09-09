@@ -1,4 +1,4 @@
-# Olá! Eu sou Francisco Machado 👋
+# Sou Francisco Machado 👋
 
 🎓 Estudante de Engenharia de Software  
 💻 Em formação na área de Tecnologia da Informação  
